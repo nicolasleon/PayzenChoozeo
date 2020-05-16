@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <fullnamespace>PayzenChoozeo\PayzenChoozeo</fullnamespace>
+    <descriptive locale="en_US">
+        <title>Multiple payment for Payzen with Choozeo</title>
+    </descriptive>
+    <descriptive locale="fr_FR">
+        <title>Paiement multiple pour Payzen avec Choozeo</title>
+    </descriptive>
+    <version>1.0</version>
+    <author>
+        <name>Nicolas Léon</name>
+        <email>nicolas@omnitic.com</email>
+    </author>
+    <type>payment</type>
+    <required>
+        <module version="&gt;=0.1">Payzen</module>
+    </required>
+    <thelia>2.0.0</thelia>
+    <stability>other</stability>
+</module>
